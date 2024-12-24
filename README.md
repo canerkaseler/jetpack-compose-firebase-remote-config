@@ -1,6 +1,6 @@
 # Android Feature Flag Implementation with Firebase Remote Config + Kotlin Flow + Jetpack Compose
 
-This repository has a Medium article to show how we can implement firebase remote config for feature flag implementation in Android project.
+This repository has a [Medium Article](https://medium.com/proandroiddev/android-feature-flag-implementation-with-firebase-remote-config-kotlin-flow-jetpack-compose-79fc15194a42) to show how we can implement firebase remote config for feature flag implementation in Android project.
 
 <img width="600" alt="Screenshot 2024-08-19 at 22 56 22" src="https://github.com/user-attachments/assets/43240e54-b303-4b36-9f76-b39db2c38c1b">
 
@@ -30,5 +30,5 @@ There is an example of Firebase Remote Config updating and Android application b
 
 ## More details
 
-If you would like to continue reading and learn some details about above parts, please check out the [https://medium.com/@canerkaseler](https://medium.com/@canerkaseler). I hope, this repository and its Medium article will be useful and beneficial for your project! 🙌
+If you would like to continue reading and learn some details about above parts, please check out the [Medium Article](https://medium.com/proandroiddev/android-feature-flag-implementation-with-firebase-remote-config-kotlin-flow-jetpack-compose-79fc15194a42). I hope, this repository and its Medium article will be useful and beneficial for your project! 🙌
 
